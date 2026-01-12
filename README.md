@@ -1,4 +1,4 @@
-# Personal AI Secretary (TTCS)
+# Personal AI Secretary 
 
 ## Mục tiêu
 Xây dựng một hệ thống **thư ký cá nhân thông minh** hỗ trợ người dùng quản lý lịch làm việc, theo dõi thời gian, ghi nhận hành vi học tập/làm việc và phân tích trạng thái tinh thần ở mức cơ bản dựa trên văn bản, nhằm nâng cao hiệu quả cá nhân.
